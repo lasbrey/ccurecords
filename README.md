@@ -14,6 +14,7 @@ This is a complete application, built on top of MERN Stack (Mongodb,Express,Reac
 - Retention Scheduling
 - Robust Search
 - Version Control
+- Facial Authentication
 
 
 
